@@ -1,4 +1,4 @@
-package interviewprogramm;
+package interviewprogramm.important;
 
 public class PrintNumberWithoutAnyNumber
 {
